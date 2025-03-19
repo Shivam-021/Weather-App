@@ -1,0 +1,24 @@
+.searchbox{
+    text-align: center;
+}
+
+.weatherapp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Weatherdata{
+
+    border: 1px solid black;
+    width: 400px;
+
+    margin-left: 33%;
+   
+     
+
+    
+}
+.Weatherdata{
+background-color: rgb(161, 143, 61);     
+}
